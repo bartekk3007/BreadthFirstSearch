@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\48571\source\repos\BreadthFirstSearch\BreadthFirstSearch\main.c(115): warning C4715: "isVisited”: niewszystkie ścieżki kodu zwracają wartość
+  BreadthFirstSearch.vcxproj -> C:\Users\48571\source\repos\BreadthFirstSearch\x64\Debug\BreadthFirstSearch.exe
